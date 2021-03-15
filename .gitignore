@@ -1,0 +1,20 @@
+*.pyc
+*.zip
+
+data/*
+*/data
+
+19 - Deep Unsupervised Learning/01 - Autoencoder/data/*
+19 - Deep Unsupervised Learning/01 - Autoencoder/__MACOSX/*
+
+model/*
+*/model
+
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+
+_MACOSX/*
+*/_MACOSX
+
+__MACOSX/*
+*/__MACOSX
